@@ -9,7 +9,7 @@ export default function Header() {
     <header id='main-header'>
         <div className='header-content'>
             <Link to='/'>
-                <img src={logo} alt='InstaRocket' />
+                <img src={logo} alt='InstaClone' />
             </Link>
             <Link to='/new'>
                 <img src={camera} alt='Enviar publicação' />
