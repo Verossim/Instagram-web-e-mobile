@@ -3,7 +3,6 @@
 
 Utilizando os métodos ensinados pela [Rocketseat](https://rocketseat.com.br/), crei duas páginas do Instagram, **Feed** que mostram as postagens, e **New** para adicionar uma nova postagem. As páginas enstão presentes em ambas versões e conversam em **tempo real**.
 
-![print](instagram-web-e-mobile/mobile/Prints/Feedmobile.jpeg)
 
 ## Extensões
 
