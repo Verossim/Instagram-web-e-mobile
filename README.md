@@ -1,7 +1,7 @@
 # Instagram web e mobile
 >Versão do aplicativo e página web do Instagram
 
-Utilizando os métodos ensinados pela [Rocketseat](https://rocketseat.com.br/), crei duas páginas do Instagram, **Feed** que mostram as postagens, e **New** para adicionar uma nova postagem. As páginas enstão presentes em ambas versões e conversam em **tempo real**.
+Utilizando os métodos ensinados pela [Rocketseat](https://rocketseat.com.br/), criei duas páginas do Instagram, **Feed** que mostram as postagens, e **New** para adicionar uma nova postagem. As páginas enstão presentes em ambas versões e conversam em **tempo real**.
 
 
 ## Extensões
